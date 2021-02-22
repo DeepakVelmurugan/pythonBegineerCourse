@@ -1,2 +1,15 @@
 # Python Beginner Course
-A simple 5 day course for beginners to get a strong basic knowledge on python
+### A simple 5 day course for beginners to get a strong basic knowledge on python ###
+_Please look through PythonCoursePlan.docx for the topics you will be reading_
+<br>
+__Clone this repositry__
+<br><i>Please follow/read the doc files in this order</i>
+
+- [ ] Day1Python.docx
+- [ ] Day2Python.docx
+- [ ] Day3Python.docx
+- [ ] Day4Python.docx
+- [ ] Day5Python.docx
+
+_After completing each day put a x inside the [ ] to track your progress_
+
