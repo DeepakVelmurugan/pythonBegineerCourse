@@ -11,5 +11,6 @@ __Clone this repositry__
 - [ ] Day4Python.docx
 - [ ] Day5Python.docx
 
+*Make sure to complete the assignments to get a firm grip of the concepts* </br>
 _After completing each day put a x inside the [ ] to track your progress_
 
